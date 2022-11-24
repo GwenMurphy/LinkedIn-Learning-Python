@@ -17,3 +17,9 @@ for i in range(10):
 cprint('Attention!', 'red', attrs=['bold'], file=sys.stderr)
 
 ### Do the thing.
+print(colored('~~~RAINBOW~~~', 'red'))
+print(colored('~~~RAINBOW~~~', 'yellow'))
+print(colored('~~~RAINBOW~~~', 'green'))
+print(colored('~~~RAINBOW~~~', 'cyan'))
+print(colored('~~~RAINBOW~~~', 'blue'))
+print(colored('~~~RAINBOW~~~', 'magenta'))
