@@ -39,3 +39,9 @@ def get_prime_factors(number):
     return factors
 
 # Array works, doesn't print, though. FFFFFFFUUUUUUU--
+## Hang on.
+
+number = int(input())
+print(get_prime_factors(number))
+
+# Nope.
