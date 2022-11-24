@@ -26,7 +26,8 @@ def is_palindrome(phrase):
     ## Takes the phrase and converts it to lowercase. Ignored non-alphabetical characters.
     forwards = ''.join(re.findall(r'[a-z]+', phrase.lower()))
     backwards = forwards[::-1]
-
+    
+    ## Returns whether it's true or false
     return forwards == backwards
 
 
