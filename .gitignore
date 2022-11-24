@@ -1,4 +1,5 @@
 ### Folders to ignore
-.vscode/
+/.vscode
+*/__pycache__
 
 ### Files to ignore

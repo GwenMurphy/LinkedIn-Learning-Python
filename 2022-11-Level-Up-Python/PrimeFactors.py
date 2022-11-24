@@ -37,3 +37,5 @@ def get_prime_factors(number):
         else:
             divisor += 1
     return factors
+
+# Array works, doesn't print, though. FFFFFFFUUUUUUU--
