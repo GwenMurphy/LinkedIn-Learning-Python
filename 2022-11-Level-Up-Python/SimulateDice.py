@@ -7,7 +7,7 @@ Output:         Table of probability for each possible outcome.
 """
 
 
-##### ##### Instructor's solution
+##### ##### ##### ##### ##### Instructor's solution
 
 from random import randint
 from collections import Counter
